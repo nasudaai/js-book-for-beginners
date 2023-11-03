@@ -1,1 +1,1 @@
-# JavaScript Book
+# JavaScript Book for Biginners
